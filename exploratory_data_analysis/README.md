@@ -1,31 +1,31 @@
-# Исследовательский анализ данных
-## Данные
-В наличии следующие данные:
-<pre>- airports_nearest — расстояние до ближайшего аэропорта в метрах (м)
-- balcony — число балконов
-- ceiling_height — высота потолков (м)
-- cityCenters_nearest — расстояние до центра города (м)
-- days_exposition — сколько дней было размещено объявление (от публикации до снятия)
-- first_day_exposition — дата публикации
-- floor — этаж
-- floors_total — всего этажей в доме
-- is_apartment — апартаменты (булев тип)
-- kitchen_area — площадь кухни в квадратных метрах (м²)
-- last_price — цена на момент снятия с публикации
-- living_area — жилая площадь в квадратных метрах (м²)
-- locality_name — название населённого пункта
-- open_plan — свободная планировка (булев тип)
-- parks_around3000 — число парков в радиусе 3 км
-- parks_nearest — расстояние до ближайшего парка (м)
-- ponds_around3000 — число водоёмов в радиусе 3 км
-- ponds_nearest — расстояние до ближайшего водоёма (м)
-- rooms — число комнат
-- studio — квартира-студия (булев тип)
-- total_area — общая площадь квартиры в квадратных метрах (м²)
-- total_images — число фотографий квартиры в объявлении</pre>
+# Exploratory Data Analysis
+## Data
+The following data is available:
+<pre>- airports_nearest — distance to the nearest airport in meters (m)
+- balcony — number of balconies
+- ceiling_height — ceiling height in meters (m)
+- cityCenters_nearest — distance to city center in meters (m)
+- days_exposition — how many days the ad was placed (from publication to removal)
+- first_day_exposition — publication date
+- floor — floor
+- floors_total — total number of floors in the building
+- is_apartment — apartment (boolean type)
+- kitchen_area — kitchen area in square meters (m²)
+- last_price — price at the time of removal from publication
+- living_area — living area in square meters (m²)
+- locality_name — locality name
+- open_plan — open-plan layout (boolean type)
+- parks_around3000 — number of parks within a radius of 3 km
+- parks_nearest — distance to the nearest park (m)
+- ponds_around3000 — number of ponds within a radius of 3 km
+- ponds_nearest — distance to the nearest body of water (m)
+- rooms — number of rooms
+- studio — studio apartment (boolean type)
+- total_area — total area of the apartment in square meters (m²)
+- total_images — number of photos of the apartment in the ad</pre>
 
-## Задача
-Выполнить предобработку данных и изучить их, чтобы найти интересные особенности и зависимости, которые существуют на рынке недвижимости.
+## Task
+To perform data preprocessing and explore the data to find interesting features and dependencies that exist in the real estate market.
 
-## Используемые библиотеки
+## Used libraries
 *pandas*

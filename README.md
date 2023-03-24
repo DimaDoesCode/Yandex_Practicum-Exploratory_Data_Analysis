@@ -1,16 +1,14 @@
 # Yandex-Practicum <a id='exploratory_data_analysis'></a>
-## Репозиторий курса "Специалист по Data Science"
+## Repository of the Data Science Specialist course.
 ### Yandex Practicum / Sprint #5 - Exploratory Data Analysis
 
-*Описание проекта*
+*Project Description*
 
-В распоряжении данные сервиса Яндекс Недвижимость — архив объявлений за несколько лет о продаже квартир в Санкт-Петербурге и соседних населённых пунктах.
-Задача — выполнить предобработку данных и изучить их, чтобы найти интересные особенности и зависимости, которые существуют на рынке недвижимости.
-О каждой квартире в базе содержится два типа данных: добавленные пользователем и картографические. Например, к первому типу относятся площадь квартиры, её этаж и количество балконов, ко второму — расстояния до центра города, аэропорта и ближайшего парка. 
+We have access to the Yandex Real Estate service data - an archive of apartment sale ads in St. Petersburg and neighboring towns for several years. The task is to preprocess the data and study them to find interesting features and dependencies that exist in the real estate market. There are two types of data for each apartment in the database: user-added and cartographic. For example, the first type includes the apartment's area, floor, and the number of balconies, while the second type includes distances to the city center, airport, and nearest park.
 
 
-*Данный проект был выполнен в ходе обучения в Яндекс.Практикуме, профессии "Специалист по Data Science"*
+*This project was completed during the learning process in Yandex.Practicum, in the Data Science Specialist profession.*
 
-| Название проекта | Описание | Используемые библиотеки | 
+| Project Name | Description | Used Libraries |
 | :---------------------- | :---------------------- | :---------------------- |
-| [Exploratory Data Analysis](exploratory_data_analysis) | Исследование надежности заемщиков в зависимости от ряда категорий распределения| *pandas* |
+| [Exploratory Data Analysis](exploratory_data_analysis) | Performing data preprocessing and studying them to find interesting features and dependencies that exist in the real estate market.| *pandas* |
