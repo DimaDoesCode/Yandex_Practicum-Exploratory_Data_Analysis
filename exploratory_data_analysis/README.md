@@ -28,4 +28,4 @@ The following data is available:
 To perform data preprocessing and explore the data to find interesting features and dependencies that exist in the real estate market.
 
 ## Used libraries
-*pandas*
+*pandas, matplotlib.pyplot, seaborn, requests, warnings, numpy, scipy*
