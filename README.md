@@ -9,6 +9,6 @@ We have access to the Yandex Real Estate service data - an archive of apartment 
 
 *This project was completed during the learning process in Yandex.Practicum, in the Data Science Specialist profession.*
 
-| Project Name | Description | Used Libraries |
+| Project Name | Description | Libraries used |
 | :---------------------- | :---------------------- | :---------------------- |
 | [Exploratory Data Analysis](exploratory_data_analysis) | Performing data preprocessing and studying them to find interesting features and dependencies that exist in the real estate market.| *pandas* |
