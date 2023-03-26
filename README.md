@@ -11,4 +11,4 @@ We have access to the Yandex Real Estate service data - an archive of apartment 
 
 | Project Name | Description | Libraries used |
 | :---------------------- | :---------------------- | :---------------------- |
-| [Exploratory Data Analysis](exploratory_data_analysis) | Performing data preprocessing and studying them to find interesting features and dependencies that exist in the real estate market.| *pandas, matplotlib.pyplot, seaborn, requests, warnings, numpy, scipy*|
+| [Exploratory Data Analysis](exploratory_data_analysis) | Performing data preprocessing and studying them to find interesting features and dependencies that exist in the real estate market.| *pandas, matplotlib.pyplot, seaborn, requests, warnings, numpy, scipy, os*|
