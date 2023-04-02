@@ -27,5 +27,7 @@ The following data is available:
 ## Task
 To perform data preprocessing and explore the data to find interesting features and dependencies that exist in the real estate market.
 
+<a href="https://github.com/DimaDoesCode/Yandex_Practicum-Exploratory_Data_Analysis/blob/master/exploratory_data_analysis/Project_Exploratory_Data_Analysis_fin.ipynb">To view the Jupyter Notebook code of the research, click on this link.</a>
+
 ## Libraries used
 *pandas, matplotlib.pyplot, seaborn, requests, warnings, numpy, scipy, os*
